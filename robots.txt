@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://triukdrag.github.io/Triuk/sitemap.xml
